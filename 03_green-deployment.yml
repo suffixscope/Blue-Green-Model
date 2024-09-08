@@ -22,7 +22,7 @@
         spec:
           containers:
           - name: javawebappcontainer
-            image: vinodscope/javawebapp:v2
+            image: vinodses/javawebapp:v2
             imagePullPolicy: Always
             ports:
             - containerPort: 8080
